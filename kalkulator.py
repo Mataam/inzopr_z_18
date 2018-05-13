@@ -1,8 +1,7 @@
 input () = liczba
 def dodaj (a,b):
-	a = input ()
-	b = input ()
-	print (int(a) + int (b)
+	return a+b
+
 x = int(input())
 y = int(inpu())
-dodaj (x,y)
+print (dodaj(x,y))
