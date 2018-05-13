@@ -6,5 +6,7 @@ def dodaj ():
 	
 	
 def get help():
-	pass
+	print("To jest prosty kalkulator")
+	print("Pdaj dwie liczby, a ja je dodam")
+get_help()
 dodaj ()
